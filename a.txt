@@ -4,3 +4,4 @@ git log --oneline mostra os cummits em só uma linha
 git log --graph mostra o grafo dos cummits
 git status mostra a situação dos aquivos no diretório, o que foi alterado e o que foi adicionado
 git commit -am faz a adição da alteração no diretório git, ou seja, a alteração do documento vai agora ser adicionada no repositório git.
+git branch identifica o ramo em que o projeto se encontra
