@@ -10,4 +10,4 @@ Se for usado o git add e adicionado ao container, o comando git diff não vai fu
 git add adiciona "nome do arquivo" adiciona o arquivo ao container e git add . ou git add * adiciona todos os arquivos da pasta
 git checkout (numero do hash) muda o head pra uma versão anterior do arquivo.
 git chechout master faz com que o arquivo volte para a última alteração feita no arquivo, ou seja, o último commit feito.
-
+linha modificada no ramo master
