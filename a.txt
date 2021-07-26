@@ -11,3 +11,6 @@ git add adiciona "nome do arquivo" adiciona o arquivo ao container e git add . o
 git checkout (numero do hash) muda o head pra uma versão anterior do arquivo.
 git chechout master faz com que o arquivo volte para a última alteração feita no arquivo, ou seja, o último commit feito.
 linha modificada no ramo master
+git reset --hard exclui um commit - comando seria git reset --hard "hash que identifica o commit que você quer excluir" obs: sem aspas
+git checkout -b exemplonome cria um novo branch(ramo). O novo branch(ramo) herda todos os commits do branch original, ou seja,  do master.
+Esta Linha foi modificada no ramo teste
