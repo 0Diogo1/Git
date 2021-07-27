@@ -13,4 +13,16 @@ git chechout master faz com que o arquivo volte para a última alteração feita
 linha modificada no ramo master
 git reset --hard exclui um commit - comando seria git reset --hard "hash que identifica o commit que você quer excluir" obs: sem aspas
 git checkout -b exemplonome cria um novo branch(ramo). O novo branch(ramo) herda todos os commits do branch original, ou seja,  do master.
-Esta Linha foi modificada no ramo teste
+Esta Linha foi modificada no ramo testegit merge serve para fundir dois ramos. Ex: git merge teste.
+
+
+para adicionar um repositório remoto no git hub usando um repositório local o comando é git remote add origin ex: https://github.com/0Diogo1/Git.git
+git remote -v
+ls mostra os arquivos na pasta, ls -a mostra os aqrquivos ocultos na pasta.
+use mkdir para criar uma nova pasta
+use touch para criar um novo arquivo
+use o git merge para fundir dois ramos
+use pwd para saber o caminho que você está fazendo 
+use cd + o nome da pasta que você quer acessar para entrar nessa pasta
+use cd .. para voltar um nível nesse caminho, ou seja, na pasta anterior à que você está
+o git pull commita o arquivo remoto no github com o repositório local
