@@ -26,3 +26,5 @@ use pwd para saber o caminho que você está fazendo
 use cd + o nome da pasta que você quer acessar para entrar nessa pasta
 use cd .. para voltar um nível nesse caminho, ou seja, na pasta anterior à que você está
 o git pull commita o arquivo remoto no github com o repositório local
+git fetch é usado para fazer o download das alterações que estão no repositório remoto para poder fazer a comparação do que está diferente do meu repositório local
+equivale ao git pull que também faz o download do repositório remoto, mas não faz a fusão dos projetos.
